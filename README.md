@@ -87,24 +87,6 @@ Ensure you have **Node.js (v18+)** and **npm** installed on your system.
 
 ---
 
-## 🛠️ Customization Guide
-
-To update studio details, availability, email, or social links, edit `src/config/site.js`:
-
-```javascript
-export const siteConfig = {
-  name: "ZENIT STUDIO",
-  email: "your-email@domain.com",
-  availability: "SLOTS OPEN — OCT '26",
-  socials: {
-    instagram: "https://www.instagram.com/your-handle",
-    linkedin: "https://www.linkedin.com/company/your-handle",
-  },
-};
-```
-
----
-
 ## 📄 License
 
 Created with ❤️ by **ZENIT Studio**. Distributed for commercial & client project use.
