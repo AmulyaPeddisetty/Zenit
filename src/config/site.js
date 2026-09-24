@@ -4,7 +4,7 @@
  */
 export const siteConfig = {
   name: "ZENIT STUDIO",
-  email: "kanza@nvrmndstudio.com",
+  email: "peddisettyamulya172004@gmail.com",
   availability: "SLOTS OPEN — OCT '26",
   socials: {
     instagram: "https://www.instagram.com/nvrmndstudio_/",
